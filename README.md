@@ -122,6 +122,10 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
+<a href="https://medium.com/@deveshsaini369" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
 <a href="https://www.instagram.com/_d3v3sh._/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
