@@ -109,9 +109,9 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <a href="mailto:devesh.saini.pro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/devesh-saini-te">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/devesh-saini-te/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="https://www.reddit.com/user/mr-rattle-bone/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
