@@ -18,7 +18,7 @@ Currently working on projects that blend **AI, automation, and web applications*
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="45" height="45" alt="Flask"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
-  <img src="https://logo.svgcdn.com/simple-icons/scikitlearn-dark.svg" width="45" height="45" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45" height="45" alt="TensorFlow"/>
 
 
