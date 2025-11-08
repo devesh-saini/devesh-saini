@@ -99,9 +99,11 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
 
 #
-#
 
-### 😀 Connect with me
+<div align="center">
+  <h3>😀 Connect with me</h3>
+</div>
+
 
 <div align="center">
   
