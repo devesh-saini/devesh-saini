@@ -43,7 +43,7 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
 
-## Articles
+## 🧠 Articles
 
 ### 📝 Recently Featured Articles
 
@@ -100,6 +100,20 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
 
+## 😀 Contact / Socials
+
+<div align="center">
+
+  <h3>🌐 Connect with me</h3>
+  
+  <a href="mailto:devesh.saini.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/mr-rattle-bone/">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+
+</div>
 
 <!-- ### 📊 Stats
 
