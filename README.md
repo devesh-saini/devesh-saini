@@ -4,7 +4,7 @@
 Currently working on projects that blend **AI, automation, and web applications**, while growing toward a full-fledged **AI/ML Engineer** role. ✨ Passionate about ideas that merge creativity with computation.
 
 ### 🔭 Tech Stack
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
