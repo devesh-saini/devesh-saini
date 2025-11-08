@@ -45,8 +45,6 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 ## 🧠 Articles
 
-### 📝 Recently Featured Articles
-
 <table>
   <tr>
     <td>
