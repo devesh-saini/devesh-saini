@@ -17,7 +17,7 @@ Currently working on projects that blend **AI, automation, and web applications*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="45" height="45" alt="Flask"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
-  <img src="https://cdn.jsdelivr.net/gh/ollama/ollama@main/docs/public/ollama.png" width="45" height="45" alt="Ollama"/>
+  <img src="https://logo.svgcdn.com/simple-icons/ollama-dark.svg" width="45" height="45" alt="Ollama"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
 
 
