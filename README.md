@@ -19,7 +19,8 @@ Currently working on projects that blend **AI, automation, and web applications*
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/121501844?s=200&v=4" width="45" height="45" alt="Ollama"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
-  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/_static/transformers_logo_name.svg" width="100" height="45" alt="Transformers"/>
+  <img src="https://cdn.jsdelivr.net/gh/huggingface/branding@main/assets/transformers-logo.svg" width="100" height="45" alt="Transformers"/>
+
 
   <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
@@ -27,7 +28,7 @@ Currently working on projects that blend **AI, automation, and web applications*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://www.svgrepo.com/show/439171/nextjs.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
 
 
   <!-- Databases -->
