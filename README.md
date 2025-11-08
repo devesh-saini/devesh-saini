@@ -3,9 +3,8 @@
 <!-- ![til](./wall1.gif) -->
 Currently working on projects that blend **AI, automation, and web applications**, while growing toward a full-fledged **AI/ML Engineer** role. ✨ Passionate about ideas that merge creativity with computation.
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=100&color=fbfbfb&lines=----------------)
 ### 🔭 Tech Stack
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=100&color=fbfbfb&lines=-------------------------------------------------)
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
