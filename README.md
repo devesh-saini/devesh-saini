@@ -7,13 +7,36 @@ Currently working on projects that blend **AI, automation, and web applications*
 
 ### 🔭 Tech Stack
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35"/>
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" height="35"/>](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/>
+### 🚀 Tech Stack
+
+<p>
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="Arch Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+
+  <!-- Programming & AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="45" height="45" alt="Flask" style="filter: brightness(1.5);"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/121501844?s=200&v=4" width="45" height="45" alt="Ollama"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
+  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/_static/transformers_logo_name.svg" width="100" height="45" alt="Transformers"/>
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="45" height="45" alt="Next.js" style="filter: invert(60%) sepia(30%) saturate(300%) hue-rotate(180deg);"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
 
