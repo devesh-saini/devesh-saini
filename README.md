@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Devesh
 
 <!-- ![til](./wall1.gif) -->
-Currently working on projects that blend **AI, automation, and web applications**, while growing toward a full-fledged **AI Engineer** role. ✨ Passionate about ideas that merge creativity with computation.
+Currently working on projects that blend **AI, automation, and web applications**, while growing toward a full-fledged **AI/ML Engineer** role. ✨ Passionate about ideas that merge creativity with computation.
 
 
 
