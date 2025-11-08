@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Devesh
 
 <!-- ![til](./wall1.gif) -->
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=500&color=ffffff&vCenter=true&lines=Currently+working+on+projects+that+blend+AI%2C+automation%2C+and+web+applications.;Growing+toward+a+full-fledged+AI+Engineer+role.;✨+Passionate+about+ideas+that+merge+creativity+with+computation.)
+Currently working on projects that blend **AI, automation, and web applications**, while growing toward a full-fledged **AI Engineer** role. ✨ Passionate about ideas that merge creativity with computation.
 
 
 🔭 I’m currently working on ...
