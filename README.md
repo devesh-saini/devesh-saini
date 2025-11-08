@@ -19,7 +19,6 @@ Currently working on projects that blend **AI, automation, and web applications*
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/121501844?s=200&v=4" width="45" height="45" alt="Ollama"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
-  <img src="https://raw.githubusercontent.com/huggingface/branding/main/assets/transformers-logo.svg" width="100" height="45" alt="Transformers"/>
 
 
   <!-- Web Development -->
