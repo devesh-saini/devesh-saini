@@ -45,7 +45,9 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 ## Articles
 
-[![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@yourusername)
+
+
+[![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
 
 
 <!-- ### 📊 Stats
