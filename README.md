@@ -43,7 +43,7 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
 
-## 🧠 Articles
+### 🧠 Articles
 
 <table>
   <tr>
@@ -97,6 +97,8 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
+
+#
 
 ## 😀 Connect with me
 
