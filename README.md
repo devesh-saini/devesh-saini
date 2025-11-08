@@ -109,7 +109,7 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 </a>
 
 <a href="https://www.linkedin.com/in/devesh-saini-te/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.reddit.com/user/mr-rattle-bone/" target="_blank" rel="noopener noreferrer">
