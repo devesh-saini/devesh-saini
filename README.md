@@ -40,9 +40,8 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
-<div align="right">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
-</div>
 
 ## 🧠 Articles
 
