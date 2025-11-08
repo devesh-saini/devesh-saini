@@ -5,9 +5,9 @@ Currently working on projects that blend **AI, automation, and web applications*
 
 ##
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
-### 🚀 What I have experience with
 
+### 🚀 What I have experience with
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
 <p>
   <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" height="45" alt="Arch Linux"/>
