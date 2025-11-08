@@ -40,8 +40,9 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
-
+<div align="right">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=0&color=f5f5f5&lines=-----------------------------------------)
+</div>
 
 ## 🧠 Articles
 
@@ -100,11 +101,9 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
 
-## 😀 Contact / Socials
+## 😀 Connect with me
 
 <div align="center">
-
-  <h3>🌐 Connect with me</h3>
   
 <a href="mailto:devesh.saini.pro@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -130,24 +129,3 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
-
-<!-- ### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-saini&show_icons=true&theme=gruvbox) -->
-
-
-
-<!--
-**devesh-saini/devesh-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
