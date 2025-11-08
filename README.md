@@ -51,19 +51,22 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <tr>
     <td>
       <a href="https://medium.com/@deveshsaini369/tcp-and-beyond-fab6a4470f0f" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hGVk-1kW0FOtjlsfA6L93A.jpeg" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hGVk-1kW0FOtjlsfA6L93A.jpeg" alt="TCP and Beyond" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
         <sub><b>TCP and Beyond</b></sub>
       </a>
     </td>
     <td>
       <a href="https://medium.com/@deveshsaini369/next-js-folder-structure-ef796f924d14" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xEDnVn9IDf5uU2Ae6x6wiw@2x.jpeg" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
-        <sub><b>Next.js folder structure</b></sub>
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xEDnVn9IDf5uU2Ae6x6wiw@2x.jpeg" alt="Next.js folder structure" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
+        <sub><b>Next.js Folder Structure</b></sub>
       </a>
     </td>
     <td>
       <a href="https://medium.com/@deveshsaini369/udp-deep-dive-e35cc4d23ee8" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Bz5Sdc3uUV4h-PV49Yk2Bw.png" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Bz5Sdc3uUV4h-PV49Yk2Bw.png" alt="UDP Deep Dive" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
         <sub><b>UDP Deep Dive</b></sub>
       </a>
     </td>
@@ -71,24 +74,28 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
   <tr>
     <td>
       <a href="https://medium.com/@deveshsaini369/evolution-of-software-architecture-86abbd82bdf3" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rkZ6S9mgjcrfN88eiPxg0w@2x.jpeg" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rkZ6S9mgjcrfN88eiPxg0w@2x.jpeg" alt="Evolution of Software Architecture" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
         <sub><b>Evolution of Software Architecture</b></sub>
       </a>
     </td>
     <td>
       <a href="https://medium.com/@deveshsaini369/understanding-solid-principles-in-software-development-eff78f25aa09" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*CuHQjHgCXSW12U-GVoECXA.png" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
-        <sub><b>Understanding SOLID Principles in Software Development</b></sub>
+        <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*CuHQjHgCXSW12U-GVoECXA.png" alt="Understanding SOLID Principles" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
+        <sub><b>Understanding SOLID Principles</b></sub>
       </a>
     </td>
     <td>
       <a href="https://medium.com/@deveshsaini369/osi-model-f41693ac503f" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*er5InhuUsMN8yaAJtbgpDQ@2x.jpeg" alt="" width="300" height="170" style="object-fit:cover; border-radius:10px; overflow: hiiden;"/><br/>
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*er5InhuUsMN8yaAJtbgpDQ@2x.jpeg" alt="OSI Model" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
         <sub><b>OSI Model</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on%20Medium-black?logo=medium&logoColor=white)](https://medium.com/@deveshsaini369)
