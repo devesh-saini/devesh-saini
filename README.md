@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Devesh
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=100&color=fbfbfb&lines=-----------------------------) -->
 <!-- ![til](./wall1.gif) -->
-I enjoy building things that think. My work revolves around AI, automation, and the web, where I experiment with models, APIs, and real-world use cases. I’m currently sharpening my skills toward becoming a practical AI Engineer, focused on creating tools that are both useful and intelligent. What drives me most is the intersection of logic and creativity — turning abstract ideas into working systems that actually make life easier.
+I enjoy building things that think and adapt. My work revolves around AI 🤖, automation ⚙️, and web development 🌐, where I explore how intelligent systems can make everyday processes smarter and smoother.
+🚀 I’m growing toward a full-fledged AI Engineer, focused on crafting tools that merge creativity with computation. What excites me most is turning abstract ideas 💡 into real, working systems that genuinely make life easier.
 
 ##
 
