@@ -100,11 +100,11 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 
 #
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-saini&show_icons=true&theme=gruvbox)
 
-# -->
+#
 
 <div align="center">
   <h3>😀 Connect with me</h3>
