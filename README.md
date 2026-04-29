@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/63062c6d-e22e-4cc2-9c85-57eb285b68fc" />## Hi there 👋 I'm Devesh
+## Hi there 👋 I'm Devesh
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=12&pause=100&color=fbfbfb&lines=-----------------------------) -->
 <!-- ![til](./wall1.gif) -->
 **`🚀 Blending AI, automation, and creativity to build smart, human-centered systems.`**
