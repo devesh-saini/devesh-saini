@@ -3,8 +3,6 @@
 <!-- ![til](./wall1.gif) -->
 **`🚀 Blending AI, automation, and creativity to build smart, human-centered systems.`**
 
-<video src="wall1.gif" style="width: 100%; height: 100px; object-fit: cover;"></video>
-
 I enjoy building things that think and adapt. My work revolves around AI 🤖, automation ⚙️, and web development 🌐, where I explore how intelligent systems can make everyday processes smarter and smoother.
 🚀 I’m growing toward a full-fledged AI Engineer, focused on crafting tools that merge creativity with computation. What excites me most is turning abstract ideas 💡 into real, working systems that genuinely make life easier.
 
