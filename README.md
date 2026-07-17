@@ -24,6 +24,13 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
 <table>
   <tr>
     <td>
+      <a href="https://medium.com/@deveshsaini369/propositional-chunking-creating-better-embeddings-for-rag-2c964f1acb62" style="color: white; text-decoration: none;">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*i4rJ-Dn4z9iRCibfCz-zoA.png" alt="Propositional Chunking" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
+        <br/>
+      </a>
+      <sub><b>Propositional Chunking</b></sub>
+    </td>
+    <td>
       <a href="https://medium.com/@deveshsaini369/tcp-and-beyond-fab6a4470f0f" style="color: white; text-decoration: none;">
         <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hGVk-1kW0FOtjlsfA6L93A.jpeg" alt="TCP and Beyond" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
         <br/>
@@ -37,21 +44,14 @@ I enjoy building things that think and adapt. My work revolves around AI 🤖, a
       </a>
       <sub><b>Next.js Folder Structure</b></sub>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://medium.com/@deveshsaini369/udp-deep-dive-e35cc4d23ee8" style="color: white; text-decoration: none;">
         <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Bz5Sdc3uUV4h-PV49Yk2Bw.png" alt="UDP Deep Dive" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
         <br/>
       </a>
       <sub><b>UDP Deep Dive</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@deveshsaini369/evolution-of-software-architecture-86abbd82bdf3" style="color: white; text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rkZ6S9mgjcrfN88eiPxg0w@2x.jpeg" alt="Evolution of Software Architecture" width="300" height="170" style="border-radius:10px; object-fit:cover; display:block;"/>
-        <br/>
-      </a>
-      <sub><b>Evolution of Software Architecture</b></sub>
     </td>
     <td>
       <a href="https://medium.com/@deveshsaini369/understanding-solid-principles-in-software-development-eff78f25aa09" style="color: white; text-decoration: none;">
